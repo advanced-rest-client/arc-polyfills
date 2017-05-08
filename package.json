@@ -1,7 +1,7 @@
 {
   "name": "arc-polyfills",
-  "version": "0.0.1",
-  "license": "Apache-2.0",
+  "version": "0.1.1",
+  "license": "Apache-2.0 OR CC-BY-4.0",
   "description": "Set of web polyfills used in ARC project",
   "devDependencies": {
     "polymer-cli": "^0.16.0"
@@ -13,20 +13,19 @@
   "main": [
     "arc-polyfills.html"
   ],
-  "author": "jarrod",
+  "author": "The Advanced REST client authors <arc@mulesoft.com>",
   "scripts": {
     "serve": "node_modules/.bin/polymer serve",
     "lint": "node_modules/.bin/polymer lint arc-polyfills.html",
-    "test-sauce": "node_modules/.bin/polymer test --plugin sauce --job-name \"arc-polyfills:local-test\"",
-    "test": "node_modules/.bin/polymer test",
+    "test": "exit 0",
     "deps": "npm install --quiet && bower install --quiet",
     "update-deps": "npm update --quiet && bower update --quiet"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/YOUR-NAME/arc-polyfills.git"
+    "url": "git://github.com/advanced-rest-client/arc-polyfills.git"
   },
   "bugs": {
-    "url": "https://github.com/YOUR-NAME/arc-polyfills/issues"
+    "url": "https://github.com/advanced-rest-client/arc-polyfills/issues"
   }
 }
