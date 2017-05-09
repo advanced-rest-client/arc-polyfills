@@ -1,3 +1,13 @@
+<a name="0.1.2"></a>
+## [0.1.2](https://github.com/advanced-rest-client/arc-polyfills/compare/0.1.1...v0.1.2) (2017-05-09)
+
+
+### Update
+
+* Updated promise dependency to not create conflicts ([91d4f2e165d5b79798d1c7653b59438a14801a23](https://github.com/advanced-rest-client/arc-polyfills/commit/91d4f2e165d5b79798d1c7653b59438a14801a23))
+
+
+
 <a name="0.1.1"></a>
 ## 0.1.1 (2017-05-08)
 
