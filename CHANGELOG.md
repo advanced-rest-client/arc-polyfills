@@ -1,3 +1,13 @@
+<a name="0.1.4"></a>
+## [0.1.4](https://github.com/advanced-rest-client/arc-polyfills/compare/0.1.3...v0.1.4) (2017-05-09)
+
+
+### Update
+
+* Updated Bower dependencies to a right repo ([0e263d62628f2ca6d5efcbfbda25c63539009b19](https://github.com/advanced-rest-client/arc-polyfills/commit/0e263d62628f2ca6d5efcbfbda25c63539009b19))
+
+
+
 <a name="0.1.3"></a>
 ## [0.1.3](https://github.com/advanced-rest-client/arc-polyfills/compare/0.1.2...v0.1.3) (2017-05-09)
 
