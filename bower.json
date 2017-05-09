@@ -1,7 +1,7 @@
 {
   "name": "arc-polyfills",
   "description": "Set of web polyfills used in ARC project",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "license": "Apache-2.0",
   "authors": [
     "jarrod"
