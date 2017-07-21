@@ -1,3 +1,13 @@
+<a name="0.1.9"></a>
+## [0.1.9](https://github.com/advanced-rest-client/arc-polyfills/compare/0.1.8...0.1.9) (2017-07-21)
+
+
+### Update
+
+* Added Number.isInteger polyfill. ([75e058285cb9fce6088d82a507ee8dd55a955b53](https://github.com/advanced-rest-client/arc-polyfills/commit/75e058285cb9fce6088d82a507ee8dd55a955b53))
+
+
+
 <a name="0.1.8"></a>
 ## [0.1.8](https://github.com/advanced-rest-client/arc-polyfills/compare/0.1.6...v0.1.8) (2017-06-16)
 
