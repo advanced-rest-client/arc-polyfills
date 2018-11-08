@@ -252,3 +252,8 @@ if (!Array.from) {
 Number.isInteger = Number.isInteger || function(value) {
   return typeof value === 'number' && isFinite(value) && Math.floor(value) === value;
 };
+if (!String.prototype.startsWith) {
+	String.prototype.startsWith = function(search, pos) {
+		return this.substr(!pos || pos < 0 ? 0 : +pos, search.length) === search;
+	};
+}
